@@ -25,7 +25,7 @@
 
 ## 📫 Get in Touch
 
-- Website: [www.mobiware.com](https://www.wearemobi.com)
+- Website: [www.wearemobi.com](https://www.wearemobi.com)
 - Email: [contact@wearemobi.com](mailto:contact@wearemobi.com)
 
 ---
