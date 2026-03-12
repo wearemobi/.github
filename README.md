@@ -1,4 +1,4 @@
-#  WE ARE MOBI
+#  We Are Mobi™
 ### Transforming ideas into high-impact digital solutions
 
 ---
