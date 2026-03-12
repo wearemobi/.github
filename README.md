@@ -1,5 +1,5 @@
-#  We are MOBI
-### Transforming ideas into high-impact digital solutions 🚀
+#  WE ARE MOBI
+### Transforming ideas into high-impact digital solutions
 
 ---
 
