@@ -7,4 +7,4 @@
 
 ---
 
-[https://wearemobi.com](wearemobi.com) · contact@wearemobi.com
+[wearemobi.com](https://wearemobi.com) · contact@wearemobi.com
