@@ -1,18 +1,19 @@
 ## WeAreMobi — Pull Request Review
 
-### 🔗 Connections
-- **Issue:** Closes #
-- **SPEC:** [Link to SPEC-vX.X.md](docs/SPEC-vX.X.md) ### 📝 Summary
+### 📝 Summary
 Clearly explain the changes introduced in this PR. If it's a UI change, consider adding a screenshot.
 
+### 🔗 Connections
+- **Issue:** Closes #X
+- **SPEC:** SPEC-vX.X.md
+  
 ### 🛠 Type of Change
 - [ ] `feat`: New feature (Spec-driven)
 - [ ] `fix`: Bug fix
 - [ ] `hotfix`: Critical production fix (SPEC bypass)
 - [ ] `docs`: Documentation/SPEC update
 - [ ] `style`: UI/UX, Branding, Assets (Logos/SVGs)
-- [ ] `chore`: Build/Gradle/Kover/Next.js config
-- [ ] `!`: **BREAKING CHANGE** (Requires major version bump)
+- [ ] `chore`: Build/Gradle/Kover (Config)
 
 ### 🧪 Quality Assurance
 **How Has This Been Tested?**
