@@ -1,3 +1,10 @@
+---
+name: Feature Request
+about: Probar si funciona
+title: "feat: "
+labels: ["feature"]
+---
+
 # <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> WeAreMobi™ · Feature Request / Task
 
 > **Machine Oriented Brilliant Ideas™** · Transforming ideas into high-impact digital solutions. 🚀
