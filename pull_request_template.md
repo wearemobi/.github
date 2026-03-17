@@ -1,4 +1,4 @@
-## WeAreMobi — Pull Request Review
+## WeAreMobi™ · Pull Request
 
 ### Summary
 Clearly explain the changes introduced in this PR. If it's a UI change, consider adding a screenshot.
