@@ -1,4 +1,4 @@
-# WeAreMobi · Git Convention v1.2
+# WeAreMobi™ · Git Convention v1.2
 
 ### Philosophy
 This convention is platform-agnostic and designed for **Spec-Driven Development**. It ensures every line of code is backed by a deliberate decision, providing a clear audit trail for the startup's evolution.
@@ -74,4 +74,4 @@ If a change breaks compatibility (e.g., API change, DB migration), add `!` after
 - **Code (`feat/`, `fix/`):** Squash and merge (clean `main` history).
 
 ---
-*WeAreMobi · Git Convention v1.2 · 2026*
+*WeAreMobi™ · Git Convention v1.2 · 2026*
