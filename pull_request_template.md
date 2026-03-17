@@ -1,13 +1,13 @@
-## WeAreMobi™ · Pull Request
+# WeAreMobi™ · Pull Request
 
-### Summary
+## Summary
 Clearly explain the changes introduced in this PR. If it's a UI change, consider adding a screenshot.
 
-### Connections
+## Connections
 - **Issue:** Closes #X
 - **SPEC:** SPEC-vX.X.md
   
-### Type of Change
+## Type of Change
 - [ ] `feat`: New feature (Spec-driven)
 - [ ] `fix`: Bug fix
 - [ ] `hotfix`: Critical production fix (SPEC bypass)
@@ -15,13 +15,13 @@ Clearly explain the changes introduced in this PR. If it's a UI change, consider
 - [ ] `style`: UI/UX, Branding, Assets (Logos/SVGs)
 - [ ] `chore`: Build/Gradle/Kover (Config)
 
-### Quality Assurance
+## Quality Assurance
 **How Has This Been Tested?**
 - [ ] Unit Tests (JUnit/Kover)
 - [ ] Manual UI verification
 - [ ] Reproduce steps
 
-### Definition of Done (from SPEC)
+## Definition of Done (from SPEC)
 - [ ] Code follows WeAreMobi style guide.
 - [ ] **Self-review completed** (no "debug" logs or commented code).
 - [ ] Documentation updated (if applicable).
