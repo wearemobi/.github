@@ -1,6 +1,6 @@
-# <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> WeAreMobi
+# <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> WeAreMobi™
 
-> **Machine Oriented Brilliant Ideas** · Transforming ideas into high-impact digital solutions. 🚀
+> **Machine Oriented Brilliant Ideas™** · Transforming ideas into high-impact digital solutions. 🚀
 
 ---
 
