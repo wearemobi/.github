@@ -1,8 +1,11 @@
 ---
-name: Feature Request
-about: trigger for any SPEC or code implementation.
-title: "feature: "
-labels: ["feature"]
+name: Feature request
+about: Suggest an idea for this project
+title: trigger for any SPEC or code implementation.
+labels: ''
+assignees: ''
+type: Feature
+
 ---
 
 # <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> WeAreMobi™ · Feature Request / Task
@@ -24,10 +27,6 @@ List the main goals that the SPEC must address:
 1. 
 2. 
 3. 
-
----
-
-**🤖 MobiAI · 📱 MobiWare**
 
 ---
 
