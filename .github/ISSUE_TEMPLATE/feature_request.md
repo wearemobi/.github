@@ -7,11 +7,7 @@ type: Feature
 
 ---
 
-# <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> WeAreMobi™ · Feature Request / Task
-
-> **Machine Oriented Brilliant Ideas™** · Transforming ideas into high-impact digital solutions. 🚀
-
----
+# WeAreMobi™ · SPEC or Code Change v1.2
 
 ## Context & Goal
 Provide a clear, high-level summary of what needs to be built and why. 
@@ -23,7 +19,7 @@ Provide a clear, high-level summary of what needs to be built and why.
 
 ## Acceptance Criteria
 List the main goals that the SPEC must address:
-- [ ] Documentation updated in the /docs folder.
+- [ ] SPEC file updated.
 
 ---
 
