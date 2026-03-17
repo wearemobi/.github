@@ -1,7 +1,7 @@
 ---
 name: Feature Request
-about: Probar si funciona
-title: "feat: "
+about: trigger for any SPEC or code implementation.
+title: "feature: "
 labels: ["feature"]
 ---
 
@@ -31,4 +31,4 @@ List the main goals that the SPEC must address:
 
 ---
 
-[wearemobi.com](https://wearemobi.com) · contact@wearemobi.com
+[wearemobi.com](https://wearemobi.com) · [contact@wearemobi.com](mailto:contact@wearemobi.com)
