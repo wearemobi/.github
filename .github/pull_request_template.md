@@ -25,8 +25,8 @@ Clearly explain the changes introduced in this PR. If it's a UI change, consider
 - [ ] Code follows WeAreMobi style guide.
 - [ ] **Self-review completed** (no "debug" logs or commented code).
 - [ ] Documentation updated (if applicable).
-- [ ] All tests pass in CI/CD.
+- [ ] All tests pass in CI/CD (if applicable).
 - [ ] **SPEC requirements met** (Verified against SPEC criteria).
 
 ---
-WeAreMobi · Pull Request Template v1.2 · 2026
+WeAreMobi™ · Pull Request Template v1.0 · 2026

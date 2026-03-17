@@ -74,4 +74,4 @@ If a change breaks compatibility (e.g., API change, DB migration), add `!` after
 - **Code (`feat/`, `fix/`):** Squash and merge (clean `main` history).
 
 ---
-*WeAreMobi™ · Git Convention v1.2 · 2026*
+WeAreMobi™ · Git Convention v1.2 · 2026

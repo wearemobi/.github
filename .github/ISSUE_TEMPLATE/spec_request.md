@@ -22,5 +22,4 @@ type: Feature
 - [ ] The document is merged into the `main` branch under the `docs/` folder.
 
 ---
-
-[wearemobi.com](https://wearemobi.com) · [contact@wearemobi.com](mailto:contact@wearemobi.com)
+WeAreMobi™ · SPEC or DOCS change request v1.0 · 2026
