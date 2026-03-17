@@ -1,6 +1,6 @@
 ---
-name: SPEC or code implementation
-about: trigger for any SPEC or code implementation change
+name: SPEC or code change
+about: trigger for any SPEC or change
 title: "feat: "
 labels: ["feature"]
 type: Feature
@@ -23,9 +23,7 @@ Provide a clear, high-level summary of what needs to be built and why.
 
 ## Acceptance Criteria
 List the main goals that the SPEC must address:
-1. 
-2. 
-3. 
+- [ ] Documentation updated in the /docs folder.
 
 ---
 
