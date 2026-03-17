@@ -1,4 +1,4 @@
-# WeAreMobi™ GitHub Profile
+# WeAreMobi™ · GitHub Profile
 Welcome to the `.github` profile repository. 
 
 
