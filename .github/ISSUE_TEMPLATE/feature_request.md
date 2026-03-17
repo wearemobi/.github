@@ -1,9 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: trigger for any SPEC or code implementation.
-labels: ''
-assignees: ''
+name: SPEC or code implementation
+about: trigger for any SPEC or code implementation change
+title: "feat: "
+labels: ["feature"]
 type: Feature
 
 ---
