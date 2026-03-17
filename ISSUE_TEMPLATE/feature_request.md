@@ -1,9 +1,3 @@
----
-name: "Feature Request / Task"
-about: "trigger for any SPEC or code implementation."
-title: "feature: "
-labels: ["feature"]
----
 # <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> WeAreMobi™ · Feature Request / Task
 
 > **Machine Oriented Brilliant Ideas™** · Transforming ideas into high-impact digital solutions. 🚀
