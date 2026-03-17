@@ -1,24 +1,25 @@
 ---
 name: SPEC or DOCS change request
-about: trigger for any SPEC or DOCS change request
+about: Trigger for a new SPEC or documentation update
 title: "docs: "
-labels: ["documentation", "spec"]
-type: Documentation
+labels: ["documentation"]
+type: Feature
 
 ---
 
 # WeAreMobi™ · SPEC or DOCS change request v1.0
 
 ## Context & Goal
-Provide a clear, high-level summary of what needs to be done and why. 
+*Provide a clear, high-level summary of the requirement or the problem this SPEC aims to solve.*
 
-## Relation to SPEC
-- [ ] This issue is the trigger for a new SPEC.
-- [ ] The SPEC will be created in: `docs/spec-vX.X`
+## Implementation Plan
+- [ ] This issue is the trigger for a **New SPEC**.
+- [ ] Target Directory: `docs/SPEC-vX.X`
+- [ ] Target Filename: `docs/SPEC-vX.X.md`
 
-## Acceptance Criteria
-List the main goals that the SPEC must address:
-- [ ] The SPEC file will be: `docs/SPEC-vX.X.md`
+## Acceptance Criteria (Definition of Done)
+- [ ] All stakeholders (or R&D) have reviewed the draft.
+- [ ] The document is merged into the `main` branch under the `docs/` folder.
 
 ---
 
