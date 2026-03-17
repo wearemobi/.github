@@ -1,9 +1,9 @@
-#  We Are Mobi™
+#  WeAreMobi™
 ### Transforming ideas into high-impact digital solutions
 
 ---
 
-**🤖 AI · 📱 Mobile · 🌐 Web · ☁️ Cloud & DevOps**
+**🤖 MobiAI · 📱 MobiWare**
 
 ---
 
