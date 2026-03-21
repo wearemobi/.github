@@ -1,4 +1,4 @@
-# <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> M.O.B.I.™ · Git Convention v1.2
+# <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> M.O.B.I.™ · Git Convention v1.3
 
 ### Philosophy
 This convention is platform-agnostic and designed for **Spec-Driven Development**. It ensures every line of code is backed by a deliberate decision, providing a clear audit trail for the startup's evolution.
@@ -43,7 +43,7 @@ This convention is platform-agnostic and designed for **Spec-Driven Development*
 - `test`: Adding or fixing tests (Kover, JUnit, etc.).
 
 ### Scopes
-- **SPEC:** Use the version (e.g., `v1.2`).
+- **SPEC:** Use the version (e.g., `v1.3`).
 - **Implementation:** Use the component, module, or layer (e.g., `ui`, `data`, `auth`, `gradle`).
 
 ### Breaking Changes
@@ -57,7 +57,7 @@ If a change breaks compatibility (e.g., API change, DB migration), add `!` after
 | Purpose | Pattern | Example |
 | :--- | :--- | :--- |
 | **SPEC** | `docs/spec-vX.X` | `docs/spec-v1.3` |
-| **Feature** | `feat/vX.X-description` | `feat/v1.3-paypal-auth` |
+| **Feature** | `feat/vX.X` | `feat/v1.3` or  `feat/v1.3-context-description` |
 | **Fix** | `fix/description` | `fix/theme-toggle` |
 | **Hotfix** | `hotfix/description` | `hotfix/api-crash` |
 | **Maintenance**| `chore/description` | `chore/update-kover` |
