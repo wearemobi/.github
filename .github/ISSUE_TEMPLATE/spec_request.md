@@ -14,8 +14,8 @@ type: Feature
 
 ## Implementation Plan
 - [ ] This issue is the trigger for a **New SPEC**.
-- [ ] Target Directory: `docs/SPEC-vX.X`
-- [ ] Target Filename: `docs/SPEC-vX.X.md`
+- [ ] Target Directory: `docs/`
+- [ ] Target Filename: `docs/SPEC-v1.0.md`
 
 ## Acceptance Criteria (Definition of Done)
 - [ ] All stakeholders (or R&D) have reviewed the draft.
