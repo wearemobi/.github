@@ -5,10 +5,10 @@ Clearly explain the changes introduced in this PR. If it's a UI change, consider
 
 ## Connections
 - **Issue:** Closes #X
-- **SPEC:** SPEC-vX.X.md
+- **SPEC:** SPEC-vX.Y.md
   
 ## Type of Change
-- [ ] `feat`: New feature (Spec-driven)
+- [x] `feat`: New feature (Spec-driven)
 - [ ] `fix`: Bug fix
 - [ ] `hotfix`: Critical production fix (SPEC bypass)
 - [ ] `docs`: Documentation/SPEC update
@@ -22,7 +22,7 @@ Clearly explain the changes introduced in this PR. If it's a UI change, consider
 - [ ] Reproduce steps
 
 ## Definition of Done (from SPEC)
-- [ ] Code follows WeAreMobi style guide.
+- [ ] Code follows M.O.B.I.™ style guide.
 - [ ] **Self-review completed** (no "debug" logs or commented code).
 - [ ] Documentation updated (if applicable).
 - [ ] All tests pass in CI/CD (if applicable).
