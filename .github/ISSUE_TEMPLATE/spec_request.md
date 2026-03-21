@@ -7,7 +7,7 @@ type: Feature
 
 ---
 
-# WeAreMobi™ · SPEC or DOCS change request v1.0
+# <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> M.O.B.I.™ · SPEC or DOCS change request v1.0
 
 ## Context & Goal
 *Provide a clear, high-level summary of the requirement or the problem this SPEC aims to solve.*
@@ -22,4 +22,6 @@ type: Feature
 - [ ] The document is merged into the `main` branch under the `docs/` folder.
 
 ---
-WeAreMobi™ · SPEC or DOCS change request v1.0 · 2026
+Copyright © 2026 **M.O.B.I.™** (Machine Oriented Brilliant Ideas™)  
+Transforming ideas into high-impact digital solutions. 🚀  
+[wearemobi.com](https://wearemobi.com) · contact@wearemobi.com
