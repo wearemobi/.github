@@ -1,4 +1,4 @@
-# WeAreMobi™ · Pull Request
+# <img src="https://wearemobi.com/icon-light.svg" width="24" height="24" valign="middle"> M.O.B.I.™ · Pull Request v1.2
 
 ## Summary
 Clearly explain the changes introduced in this PR. If it's a UI change, consider adding a screenshot.
@@ -28,5 +28,8 @@ Clearly explain the changes introduced in this PR. If it's a UI change, consider
 - [ ] All tests pass in CI/CD (if applicable).
 - [ ] **SPEC requirements met** (Verified against SPEC criteria).
 
+
 ---
-WeAreMobi™ · Pull Request Template v1.0 · 2026
+Copyright © 2026 **M.O.B.I.™** (Machine Oriented Brilliant Ideas™)  
+Transforming ideas into high-impact digital solutions. 🚀  
+[wearemobi.com](https://wearemobi.com) · contact@wearemobi.com
