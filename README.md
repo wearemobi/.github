@@ -2,7 +2,7 @@
 
 Welcome to the `.github` profile repository. 
 
-* **[CONTRIBUTING](./CONTRIBUTING.md)** - Git Convention v1.2
+* **[CONTRIBUTING](./CONTRIBUTING.md)** - Git Convention v1.3
 * **[SPEC_REQUEST](.github/ISSUE_TEMPLATE/spec_request.md)** - SPEC or DOCS change request v1.0
 * **[PULL_REQUEST_TEMPLATE](.github/pull_request_template.md)** - Pull Request v1.0
 
